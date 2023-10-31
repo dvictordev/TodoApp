@@ -1,3 +1,3 @@
 # TodoApp
 
-##Application to manage todo tasks
+## Application to manage todo tasks
